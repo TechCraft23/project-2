@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <a href="#" className="text-2xl font-bold text-primary-600 dark:text-primary-400">
-              DevAgency
+             Dimatrix
             </a>
           </div>
 

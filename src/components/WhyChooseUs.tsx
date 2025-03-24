@@ -40,6 +40,7 @@ const WhyChooseUs = () => {
             <p className="text-gray-600 dark:text-gray-300">
               We deliver high-performance solutions optimized for speed and efficiency.
             </p>
+            
           </div>
           <div className="feature-card p-6 bg-white dark:bg-gray-900 rounded-lg shadow-lg hover:shadow-xl transition-all">
             <div className="w-12 h-12 bg-primary-100 dark:bg-primary-900 rounded-full flex items-center justify-center mb-6">
